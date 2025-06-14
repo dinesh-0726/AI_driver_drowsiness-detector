@@ -7,3 +7,18 @@ Files	Purpose
 -drowsiness_model.pkl	(Trained ML model)
 -alarm.mp3	(Alarm sound file)
 -requirements.txt	(Required Python libraries)
+
+
+
+Technologies Used
+Python 3.10
+
+OpenCV
+
+Mediapipe
+
+Scikit-learn (Random Forest)
+
+Streamlit
+
+Pygame
