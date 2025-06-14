@@ -1,0 +1,7 @@
+streamlit
+opencv-python
+mediapipe
+pandas
+scikit-learn
+joblib
+pygame
